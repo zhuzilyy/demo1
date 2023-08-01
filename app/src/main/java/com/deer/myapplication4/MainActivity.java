@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
          init();
     }
     private void init(){
-       Log.i("tag","main分支");
+       Log.i("tag","dev分支");
     }
 }
