@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
          init();
+         main();
     }
     private void init(){
         Log.i("tag","1111111111");
@@ -21,5 +22,8 @@ public class MainActivity extends AppCompatActivity {
         Log.i("tag","44444444444");
         Log.i("tag","1111111111");
         Log.i("tag","1111111111");
+    }
+    private void main(){
+
     }
 }
