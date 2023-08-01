@@ -15,11 +15,6 @@ public class MainActivity extends AppCompatActivity {
          init();
     }
     private void init(){
-        Log.i("tag","1111111111");
-        Log.i("tag","222222222");
-        Log.i("tag","333333333");
-        Log.i("tag","44444444444");
-        Log.i("tag","55555555555");
-        Log.i("tag","66666666666");
+        Log.i("tag","我是dev分支");
     }
 }
