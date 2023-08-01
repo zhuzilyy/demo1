@@ -12,9 +12,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
          init();
 //         initName();
+//         initName();
     }
     private void init(){
-       Log.i("tag","main分支");
        Log.i("tag","lallal");
     }
 }
